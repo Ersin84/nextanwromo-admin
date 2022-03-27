@@ -1,7 +1,7 @@
 import React from 'react';
 import { Select } from '@windmill/react-ui';
 
-const SelectRole = ({ setRole, register, name, label }) => {
+const SelectRole = ({ setRole, register, name, image, label }) => {
   return (
     <>
       <Select
@@ -19,11 +19,11 @@ const SelectRole = ({ setRole, register, name, label }) => {
         <option value="CEO">CEO</option>
         <option value="Manager">Manager</option>
         <option value="Accountant">Accountant</option>
+        <option value="IT"> IT </option>
+        <option value="Security IT">Security IT</option>
         <option value="Driver"> Driver </option>
         <option value="Security Guard">Security Guard</option>
         <option value="Deliver Person">Delivery Person</option>
-        <option value="IT"> IT </option>
-        <option value="Security IT">Security IT</option>
       </Select>
     </>
   );

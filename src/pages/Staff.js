@@ -84,11 +84,11 @@ const Staff = () => {
                 <option value="CEO">CEO</option>
                 <option value="Manager">Manager</option>
                 <option value="Accountant">Accountant</option>
-                <option value="Driver"> Driver </option>
-                <option value="Security Guard">Security Guard</option>
-                <option value="Deliver Person">Delivery Person</option>
                 <option value="IT"> IT </option>
                 <option value="Security IT">Security IT</option>
+                <option value="Deliver Person">Delivery Person</option>
+                <option value="Driver"> Driver </option>
+                <option value="Security Guard">Security Guard</option>
               </Select>
             </div>
 
@@ -113,6 +113,7 @@ const Staff = () => {
               <tr>
                 <TableCell>Id</TableCell>
                 <TableCell>Name</TableCell>
+                <TableCell>Image</TableCell>
                 <TableCell>Email</TableCell>
                 <TableCell>Contact</TableCell>
                 <TableCell>Joining Date</TableCell>

@@ -234,11 +234,11 @@ const useFilter = (data) => {
       notifyError('Please upload/select csv file first!');
     } else {
       notifySuccess('CRUD operation disable for demo!');
-      // ProductServices.addAllProducts(newProducts)
-      //   .then((res) => {
-      //     notifySuccess(res.message);
-      //   })
-      //   .catch((err) => notifyError(err.message));
+//       ProductServices.addAllProducts(newProducts)
+//         .then((res) => {
+//           notifySuccess(res.message);
+//         })
+//         .catch((err) => notifyError(err.message));
     }
   };
 

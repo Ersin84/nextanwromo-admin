@@ -79,7 +79,7 @@ const products = [
     image: 'https://i.postimg.cc/ryxzRchQ/Kale-Sprouts-3oz.jpg',
     originalPrice: 15,
     parent: 'Fruits & Vegetable',
-    quantity: 100,
+    quantity: 101,
     slug: 'kale-sprouts',
     title: 'Kale Sprouts',
     type: 'Grocery',
