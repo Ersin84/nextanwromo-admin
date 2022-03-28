@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 const notifySuccess = (message) =>
   toast.success(message, {
     position: 'top-center',
-    autoClose: 3500,
+    autoClose: 3000,
     hideProgressBar: false,
     closeOnClick: true,
     pauseOnHover: true,
@@ -16,7 +16,7 @@ const notifySuccess = (message) =>
 const notifyError = (message) =>
   toast.error(message, {
     position: 'top-center',
-    autoClose: 3500,
+    autoClose: 3000,
     hideProgressBar: false,
     closeOnClick: true,
     pauseOnHover: true,
@@ -27,7 +27,7 @@ const notifyError = (message) =>
 // eslint-disable-next-line no-unused-expressions
 <ToastContainer
   position="top-center"
-  autoClose={3500}
+  autoClose={3000}
   hideProgressBar={false}
   newestOnTop={false}
   closeOnClick
