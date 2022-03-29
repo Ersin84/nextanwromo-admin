@@ -87,8 +87,6 @@ const Staff = () => {
                 <option value="Driver"> Driver </option>
                 <option value="Security Guard">Security Guard</option>
                 <option value="Deliver Person">Delivery Person</option>
-                <option value="IT"> IT </option>
-                <option value="Security IT">Security IT</option>
               </Select>
             </div>
 

@@ -1,10 +1,4 @@
 /* TailwindCss */
-
-@tailwindcss base;
-@tailwindcss components;
-@tailwindcss utilities;
-
-
-tailwindcss base;
-tailwindcss components;
-tailwindcss utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,7 +1,7 @@
 {
-  "name": "nextanwromo-admin",
-  "version": "0.1.1",
-  "description": "this is Nextanwromo-admin dashboard",
+  "name": "dashtar-admin",
+  "version": "0.1.0",
+  "description": "this is nextanwromo-admin built with react.js",
   "private": true,
   "dependencies": {
     "@pathofdev/react-tag-input": "^1.0.7",
