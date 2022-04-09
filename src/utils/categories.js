@@ -1,10 +1,10 @@
 const categories = [
   {
-    _id: '61b0d3975741dd2e949d53f9',
-    children: ['Sports', 'Fitness'],
-    parent: 'Sports & Fitness',
-    type: 'Sports & Fitness',
-    icon: 'https://i.ibb.co/qNCvxT0/dumbbell.png',
+    _id: '6234576cfc26be383c65658d',
+    children: ['Sports', 'Fitness', 'Entertainment'],
+    parent: 'Sports & Entertainment',
+    type: 'Sports & Entertainment',
+    icon: 'https://i.ibb.co/YNV6X1N/sport-fittnes.png',
     status: 'Show',
   },
   {

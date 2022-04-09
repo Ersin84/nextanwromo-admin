@@ -19,7 +19,7 @@ const SelectOption = ({ register, name, label}) => {
         <option value="Medicine">Medicine </option>
         <option value="Books">Books </option>
         <option value="Bags">Bags</option>
-        <option value="Sports & Fitness">Sports & Fitness </option>
+        <option value="Sports & Entertainment">Sports & Entertainment </option>
         <option value="Home Accessories">Home Accessories</option>
         <option value="Furniture">Furniture</option>
         <option value="Electronics">Electronics </option>
