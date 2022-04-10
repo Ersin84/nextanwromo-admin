@@ -32,7 +32,7 @@ const categories = [
     status: 'Show',
   },
   {
-    _id: '61b0d3975741dd2e949d53fc',
+    _id: '6234576cfc26be383c656590',
     children: ['Baby Food', 'Baby Accessories'],
     parent: 'Baby Care',
     type: 'Health Care',
@@ -48,7 +48,7 @@ const categories = [
     status: 'Show',
   },
   {
-    _id: '61b0d3975741dd2e949d53fa',
+    _id: '6234576cfc26be383c65658e',
     children: [
       'Bath',
       'Cosmetics',
@@ -59,7 +59,7 @@ const categories = [
     ],
     parent: 'Beauty & Health',
     type: 'Health Care',
-    icon: 'https://i.postimg.cc/gjz1P7wx/beauty.png',
+    icon: 'https://i.ibb.co/TL6JL3q/beauty.webp',
     status: 'Show',
   },
   {
