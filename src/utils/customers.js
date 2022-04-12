@@ -2,6 +2,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef366b',
     name: 'Lester J. Massey',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'lester@gmail.com',
     password: '$2a$10$a/lbjpS5XiwwxIi5OJV0c.3v2QV2JYWdCW.ENe2jTsHJGoC9.0fHm',
     phone: '715-657-9865',
@@ -11,6 +12,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef366f',
     name: 'Josephine M. Peel',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'josephine@gmail.com',
     password: '$2a$10$PBrKor.fZ5SXHmS9Wlc2c.10sblRVcwEb3B57.GZKnSfyIFJ9lHg2',
     phone: '734-256-1159',
@@ -20,6 +22,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef3675',
     name: 'Jon B. Krueger',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'jon@gmail.com',
     password: '$2a$10$ngh.rjF7YYljSWt7XfOJH.p9m7.JXLrSpRZSFXzRzzncvSRLcwRQO',
     phone: '360-943-7332',
@@ -29,6 +32,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef3668',
     name: 'Eddie N. Garcia',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'eddie@gmail.com',
     password: '$2a$10$gWdqZ3erjBy/IyKmJ86gUeQruz8aXEZCysRlcI5ymKdXeYm6FYilq',
     phone: '917-313-4731',
@@ -38,6 +42,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef366d',
     name: 'Henry M. Koch',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'henry@gmail.com',
     password: '$2a$10$.fp.9tfmHvP239hrQRThleOcy1IekDzAMt9/gcznka8mSa4OVc.5S',
     phone: '912-587-2159',
@@ -47,19 +52,17 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef3670',
     name: 'Justin J. Ruiz',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'justin@gmail.com',
     password: '$2a$10$QAMXOStg5sAiyqLifsZTdu4GGZuW0cWMRG0TXWiLshuzfoPmuCy06',
     phone: '212-512-2888',
     createdAt: '2021-11-25T11:47:01.877Z',
     updatedAt: '2021-11-25T15:34:22.355Z',
-
-    address: '705 Pine Barren Rd, Poole',
-    image: 'https://i.ibb.co/KXBBnPx/team-3.jpg',
-    verified: false,
   },
   {
     _id: '619f77b553cc5a1858ef3674',
     name: 'Hilary W. Becker',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'hilary@gmail.com',
     password: '$2a$10$EFUwWbCBb22o86oYtfpFtuvvRo/2u0W.9UPfFMOHTBGAX0CBmqmfO',
     phone: '802-516-2269',
@@ -69,6 +72,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef366c',
     name: 'Samuel',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'samuel@gmail.com',
     password: '$2a$10$gITUzDRN.Uua686vmC1jCOdpQQNA9au8B82aA0J2.sipbJNEJYfyK',
     phone: '307-202-3590',
@@ -78,6 +82,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef3671',
     name: 'Aurora E. Amerson',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'aurora@gmail.com',
     password: '$2a$10$5545ADBMwBquthagGYm0RejtObLG20O7Ub/xzhWmah3k8ES7xb4Pq',
     phone: '660-515-7629',
@@ -87,14 +92,13 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef3676',
     name: 'paul Bruns',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'paul@gmail.com',
     password: '$2a$10$EWwjbESQ37BlQLTY9eSiy.H0NTXsHTjNDMfmT7ZjhN5xQehUHcIk.',
     phone: '01842828223',
     createdAt: '2021-11-25T11:47:01.878Z',
     updatedAt: '2021-11-25T22:43:28.326Z',
     address: 'Las Vegas, NV 89101',
-    image:
-      'http://res.cloudinary.com/ahossain/image/upload/v1637880199/ymwffpd8hlc1ifg0m1ss.jpg',
   },
   {
     _id: '619f77b553cc5a1858ef366a',
@@ -110,12 +114,10 @@ const customers = [
     name: 'James Allen',
     email: 'james@gmail.com',
     password: '$2a$10$7aCRRISyLaw5bt1reBHM2.CSMspnZnRhKclUSdIUt6bXRWSoi.EPm',
+    address: 'l705 Pine Barren Rd, Poole',
     phone: '01322828223',
     createdAt: '2021-11-25T11:47:01.878Z',
     updatedAt: '2021-11-26T12:30:30.340Z',
-    address: 'l705 Pine Barren Rd, Poole',
-    image:
-      'http://res.cloudinary.com/ahossain/image/upload/v1637929773/nhln9pld5evjhym457d0.jpg',
   },
   {
     _id: '619f77b553cc5a1858ef366e',
@@ -129,6 +131,7 @@ const customers = [
   {
     _id: '619f77b553cc5a1858ef3672',
     name: 'Christopher M. Fox',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'christopher@gmail.com',
     password: '$2a$10$kDYvAckt5i3GyxG62p8mM.PWTvKuQXnGUhavzqA/e43F.TKbeJG0C',
     phone: '812-886-0550',
@@ -146,6 +149,7 @@ const customers = [
   {
     _id: '61a7bd9ee779bb00163f2718',
     name: 'ayeng',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'cokel@gmail.com',
     password: '$2a$10$WutBzJto7yPh0bu6yJ5p/e5OySI8MM7/p7XKPccJT2RHpDHIRbqDO',
     createdAt: '2021-12-01T18:23:26.185Z',
@@ -154,50 +158,26 @@ const customers = [
   {
     _id: '61a7c0c9e779bb00163f27bb',
     name: 'Hamza',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'hamza.hk435@gmail.com',
     password: '$2a$10$mTu9lK6n8kQ0LMlX7irlQeD8fDVDhNAREE70uhpz/bV0N3NNjNyWO',
     createdAt: '2021-12-01T18:36:57.911Z',
     updatedAt: '2021-12-01T18:36:57.911Z',
   },
   {
-    _id: '61a888c5597c7b001654f348',
-    name: 'Dastan Abildaev',
-    email: 'abildaev1996@gmail.com',
-    image:
-      'https://lh3.googleusercontent.com/a/AATXAJzsOqpqbT0DMutCfq_PP7oMVRYCTJ45gWUDKoPy=s96-c',
-    createdAt: '2021-12-02T08:50:13.827Z',
-    updatedAt: '2021-12-02T08:50:13.827Z',
-  },
-  {
     _id: '61a89e54597c7b001654f44f',
     name: 'Moses Edem',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'mosesedem81@gmail.com',
     password: '$2a$10$il5b37N8dC57L/NXPy/o7uklUvk97TH2W1lpUcuqeR/xPguFOooku',
     createdAt: '2021-12-02T10:22:12.291Z',
     updatedAt: '2021-12-02T10:22:12.291Z',
   },
   {
-    _id: '61a92d54597c7b001654fb5b',
-    name: 'Mir Raisul Tanvir',
-    email: 'tanvirgraphic2@gmail.com',
-    image:
-      'https://lh3.googleusercontent.com/a/AATXAJzYe4har8HGRnfcBGS1EHKB4K12SKfjIr4ss5wW=s96-c',
-    createdAt: '2021-12-02T20:32:21.015Z',
-    updatedAt: '2021-12-02T20:32:21.015Z',
-  },
-  {
-    _id: '61aae62553d6e00016b747b6',
-    name: 'peter magic',
-    email: 'peter.sabuy@gmail.com',
-    image:
-      'https://lh3.googleusercontent.com/a/AATXAJxH-bvt7IpIE8AsCrkmxHO7klsDgFfkV2hEoGoF=s96-c',
-    createdAt: '2021-12-04T03:53:09.554Z',
-    updatedAt: '2021-12-04T03:53:09.554Z',
-  },
-  {
     _id: '61ab39f9da674c001619ba20',
     name: 'Ravi Coote',
     email: 'ravi.coote@gmx.de',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     password: '$2a$10$3maTk7Pcz.BAMr/kcpiwGOz1pRb10g9OaQENJ9Dr8aVldkR57Unqu',
     createdAt: '2021-12-04T09:50:49.234Z',
     updatedAt: '2021-12-04T09:50:49.234Z',
@@ -211,10 +191,10 @@ const customers = [
     createdAt: '2021-12-05T03:19:45.345Z',
     updatedAt: '2021-12-05T03:19:45.345Z',
   },
-
   {
     _id: '61ac5bad667e1300167b4503',
     name: 'Ibrahim Sifat',
+    image:"https://i.ibb.co/Hh3krb5/team-2.jpg",
     email: 'jtin@gmail.com',
     password: '$2a$10$9xZWCq1jJ4mtTUJcBlSGlOdGGOV9IOm6qgf82DElrVSyfILwodUCS',
     createdAt: '2021-12-05T06:26:53.566Z',
