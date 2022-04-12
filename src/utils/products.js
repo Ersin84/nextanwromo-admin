@@ -32,7 +32,7 @@ const products = [
     createdAt: '2021-12-22T16:41:23.216Z',
     description:
       'Next Wromox Builder Studio all-in-one solution for WooCommerce, to Build High-quality design Theme in Wordpress. Next Wromox Builder Studio has a very good rating on Google PageSpeed, it is fast and has many good features, one of the best e-commerce theme for WordPress..',
-    image: 'https://wromo.com/wp-content/uploads/2022/02/wromox_A.jpg',
+    image: 'https://i.ibb.co/xq2tVq5/wromox-A.jpg',
     originalPrice: 64,
     parent: 'Themes & Plugins',
     quantity: 999,
