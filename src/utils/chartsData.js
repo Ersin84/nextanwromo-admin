@@ -1,8 +1,8 @@
 export const doughnutLegends = [
-  { title: 'Plugins', color: 'bg-green-500' },
+  { title: 'Fresh Vegetable', color: 'bg-green-500' },
   { title: 'Cooking Essentials', color: 'bg-blue-500' },
   { title: 'Drinks', color: 'bg-orange-500' },
-  { title: 'Themes', color: 'bg-indigo-500' },
+  { title: 'Organic Food', color: 'bg-indigo-500' },
 ];
 
 export const lineLegends = [
@@ -11,10 +11,10 @@ export const lineLegends = [
 ];
 
 export const barLegends = [
-  { title: 'Plugins', color: 'bg-green-500' },
+  { title: 'Fresh Vegetable', color: 'bg-green-500' },
   { title: 'Cooking Essentials', color: 'bg-blue-500' },
   { title: 'Drinks', color: 'bg-orange-500' },
-  { title: 'Themes', color: 'bg-indigo-500' },
+  { title: 'Organic Food', color: 'bg-indigo-500' },
 ];
 
 export const pieLegends = [
@@ -35,7 +35,7 @@ export const doughnutOptions = {
         label: 'Dataset 1',
       },
     ],
-    labels: ['Plugins', 'Cooking Essentials', 'Drinks', 'Themes'],
+    labels: ['Fresh Vegetable', 'Cooking Essentials', 'Drinks', 'Organic Food'],
   },
   options: {
     responsive: true,
@@ -111,7 +111,7 @@ export const barOptions = {
     labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
     datasets: [
       {
-        label: 'Plugins',
+        label: 'Fresh Vegetable',
         backgroundColor: '#10B981',
         // borderColor: window.chartColors.red,
         borderWidth: 1,
@@ -132,7 +132,7 @@ export const barOptions = {
         data: [10, 45, 52, 74, 33, 50, 70],
       },
       {
-        label: 'Themes',
+        label: 'Organic Food',
         backgroundColor: '#0EA5E9',
         // borderColor: window.chartColors.red,
         borderWidth: 1,

@@ -9,7 +9,7 @@ const categories = [
   },
   {
     _id: '61b0d3975741dd2e949d5407',
-    children: ['Oil', 'Rice', 'Flour', 'Dry Plugins', 'Spices & Mixes'],
+    children: ['Oil', 'Rice', 'Flour', 'Dry Vegetable', 'Spices & Mixes'],
     parent: 'Cooking Essentials',
     type: 'Grocery',
     icon: 'https://i.ibb.co/hBv30Rt/frying-pan.png',
@@ -25,10 +25,10 @@ const categories = [
   },
   {
     _id: '61b0d3975741dd2e949d5409',
-    children: ['Themes', 'Plugins'],
-    parent: 'Themes & Plugins',
-    type: 'Digital',
-    icon: 'https://i.ibb.co/YNmFTyL/logo-3.png',
+    children: ['Dry Fruits', 'Fresh Fruits', 'Fresh Vegetable'],
+    parent: 'Fruits & Vegetable',
+    type: 'Grocery',
+    icon: 'https://i.postimg.cc/RZ275n3f/cabbage.png',
     status: 'Show',
   },
   {
@@ -76,7 +76,7 @@ const categories = [
     parent: 'Sauces & Pickles',
     type: 'Grocery',
     icon: 'https://i.postimg.cc/mk09xvk4/chili-sauce.png',
-    status: 'Show',
+    status: 'Hide',
   },
   {
     _id: '61b0d3975741dd2e949d53fd',
@@ -115,7 +115,7 @@ const categories = [
     parent: 'Honey',
     type: 'Grocery',
     icon: 'https://i.postimg.cc/65JSfy6H/honey-1.png',
-    status: 'Show',
+    status: 'Hide',
   },
   {
     _id: '61b0d3975741dd2e949d5405',
@@ -139,7 +139,7 @@ const categories = [
     parent: 'Breakfast',
     type: 'Grocery',
     icon: 'https://i.ibb.co/dgPzSt7/bagel.png',
-    status: 'Show',
+    status: 'Hide',
   },
   {
     _id: '61b0d3975741dd2e949d540a',
@@ -151,8 +151,8 @@ const categories = [
   },
   {
     _id: '61b0d3975741dd2e949d5403',
-    children: ['Themes'],
-    parent: 'Themes',
+    children: ['Organic Food'],
+    parent: 'Organic Food',
     type: 'Grocery',
     icon: 'https://i.ibb.co/xmGhNRF/apple.png',
     status: 'Show',
