@@ -76,7 +76,7 @@ const categories = [
     parent: 'Sauces & Pickles',
     type: 'Grocery',
     icon: 'https://i.postimg.cc/mk09xvk4/chili-sauce.png',
-    status: 'Hide',
+    status: 'Show',
   },
   {
     _id: '61b0d3975741dd2e949d53fd',
@@ -115,7 +115,7 @@ const categories = [
     parent: 'Honey',
     type: 'Grocery',
     icon: 'https://i.postimg.cc/65JSfy6H/honey-1.png',
-    status: 'Hide',
+    status: 'Show',
   },
   {
     _id: '61b0d3975741dd2e949d5405',
@@ -139,7 +139,7 @@ const categories = [
     parent: 'Breakfast',
     type: 'Grocery',
     icon: 'https://i.ibb.co/dgPzSt7/bagel.png',
-    status: 'Hide',
+    status: 'Show',
   },
   {
     _id: '61b0d3975741dd2e949d540a',
