@@ -9,7 +9,7 @@ const categories = [
   },
   {
     _id: '61b0d3975741dd2e949d5407',
-    children: ['Oil', 'Rice', 'Flour', 'Dry Vegetable', 'Spices & Mixes'],
+    children: ['Oil', 'Rice', 'Flour', 'Dry Plugins', 'Spices & Mixes'],
     parent: 'Cooking Essentials',
     type: 'Grocery',
     icon: 'https://i.ibb.co/hBv30Rt/frying-pan.png',
@@ -25,10 +25,10 @@ const categories = [
   },
   {
     _id: '61b0d3975741dd2e949d5409',
-    children: ['Dry Fruits', 'Fresh Fruits', 'Fresh Vegetable'],
-    parent: 'Fruits & Vegetable',
-    type: 'Grocery',
-    icon: 'https://i.postimg.cc/RZ275n3f/cabbage.png',
+    children: ['Themes', 'Plugins'],
+    parent: 'Themes & Plugins',
+    type: 'Digital',
+    icon: 'https://i.ibb.co/YNmFTyL/logo-3.png',
     status: 'Show',
   },
   {
@@ -151,8 +151,8 @@ const categories = [
   },
   {
     _id: '61b0d3975741dd2e949d5403',
-    children: ['Organic Food'],
-    parent: 'Organic Food',
+    children: ['Themes'],
+    parent: 'Themes',
     type: 'Grocery',
     icon: 'https://i.ibb.co/xmGhNRF/apple.png',
     status: 'Show',

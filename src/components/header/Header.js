@@ -111,7 +111,7 @@ const Header = () => {
 
                               <div className="notification-content">
                                 <h6 className="font-medium text-gray-500">
-                                  Yellow Sweet Corn Stock out, please check!
+                                  Yellow Sweet Themes Stock out, please check!
                                 </h6>
 
                                 <p className="flex items-center text-xs text-gray-400">

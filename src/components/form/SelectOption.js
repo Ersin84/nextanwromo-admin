@@ -13,7 +13,7 @@ const SelectOption = ({ register, name, label}) => {
       >
         <option value="" defaultValue hidden>Select type</option>
         <option value="Grocery">Grocery</option>
-        <option value="Foods">Foods</option>
+        <option value="Digital">Digital</option>
         <option value="Cloths">Cloths</option>
         <option value="Health Care">Health Care </option>
         <option value="Medicine">Medicine </option>
