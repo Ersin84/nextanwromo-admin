@@ -26,7 +26,7 @@ const products = [
     price: 57,
     discount: 11,
     tag: ['["Themes","Wordpress","Wromox"]'],
-    flashSale: false,
+    flashSale: true,
     status: 'Show',
     children: 'Themes',
     createdAt: '2021-12-22T16:41:23.216Z',
