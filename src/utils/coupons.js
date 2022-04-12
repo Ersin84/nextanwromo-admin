@@ -43,7 +43,7 @@ const coupons = [
     discountPercentage: 33,
     minimumAmount: 25,
     productType: 'Electronics',
-    logo: 'https://i.ibb.co/23kQcB9/ins3.jpg',
+    logo: 'https://i.ibb.co/8KRkx2s/foto-e.webp',
     createdAt: '2021-09-20T14:13:15.650Z',
     updatedAt: '2021-11-25T19:16:31.930Z',
   },
